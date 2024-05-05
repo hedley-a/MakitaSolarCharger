@@ -1,5 +1,5 @@
 # Charge_Controller
-LiFeO4 battery monitor and Charge controller
+LiFeO4 battery monitor and charge controller
 # Features
 monitor JBD BMS using (adapted) code from 
 
