@@ -17,7 +17,7 @@ Log charger current individual / total - Depends..
 
 Calculate power.
 
-Display charge duration and power in Watt/hours
+Display charge duration and power in Watt-hours
 
 
 
