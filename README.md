@@ -64,16 +64,8 @@ As a self taught coder I am open to style and structure advice.
 
 ## Links
 
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
-
 * Project homepage: <>
 * Repository: <https://github.com/hedley-a/MakitaSolarCharger>
-* Issue tracker: <https://github.com/hedley-a/MakitaSolarCharger>
-* Related projects:
-  * Your other project: <https://github.com/your/other-project/>
-  * Someone else's project: <https://github.com/someones/awesome-project/>
 
 ## Licensing
 
