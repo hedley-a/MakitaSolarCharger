@@ -3,12 +3,12 @@
 > 320ah LiPeO4 battery charged from 200W pk panels connected to Makita DC chargers.
 > This repo is really just for my documentation and backup but I suppose someone may find it useful.
 ## Hardware
-> Fogstar 320ah LiPeO4 Battery assembled from individual B Grade cells.
-> JBD 100A BMS with Bluetooth monitoring.
-> Epever MPTT 20 Amp charge controller
-> Victron Energy 12-24 Volt Orion 20 amp inverter.
-> Makita DC18SE x 4 
-> Arduino custom controller, battery monitor and status display 
+Fogstar 320ah LiPeO4 Battery assembled from individual B Grade cells.
+JBD 100A BMS with Bluetooth monitoring.
+Epever MPTT 20 Amp charge controller.
+Victron Energy 12-24 Volt Orion 20 amp inverter.
+Makita DC18SE x 4 
+Arduino custom controller, battery monitor and status display 
 
 > Due to external constraints design is more complicated than I would have liked.
 ## Design philosopy 
