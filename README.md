@@ -25,7 +25,7 @@ This repo is really just for my documentation and backup but I suppose someone m
 **Coloumb counting:** Required for accurate monitoring of the solar battery. Not yet implemented.\
 **Charge display:** Charge status, charge time, energy consumption, temperature monitor.
 
-|Arduino ProMini,|485-TTL converter,| 20x4 i2C LCD,| ACS 712 current sensors| ADS1115 ADC.|\
+|Arduino ProMini,| RS485-TTL converter,| 20x4 i2C LCD,| ACS 712 current sensors,| ADS1115 ADC.|\
 Optically isolated remote switching of 12/24 Volt converter and active battery balancer.
 
 ### Initial Configuration
