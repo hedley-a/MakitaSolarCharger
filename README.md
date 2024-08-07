@@ -1,4 +1,10 @@
-# Charge_Controller
+# Charge Makita batteries from solar panels
+# Overview:
+This project was dictated by a requirement 
+In brief, it all got rather complicated. Given my time over I would have don
+e it differently. 
+However in justification much of the engineering decision making process was dictated by circumstances and others
+
 LiFeO4 battery monitor and charge controller
 # Features
 monitor JBD BMS using (adapted) code from 
