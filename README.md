@@ -11,8 +11,8 @@
 
 > Due to external constraints design is more complicated than I would have liked.
 ## Design philosopy 
-> 
->	| Item 			| Reason		|
+
+	| Item 		| Reason	|
 	| ------------- | ------------- |
 	| Content Cell  | Content Cell  |
 	| Content Cell  | Content Cell  |
