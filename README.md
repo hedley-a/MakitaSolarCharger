@@ -1,20 +1,14 @@
-# Name of the project
+# Makita Solar Charger
 >
-> Additional information or tagline
+> 320ah LiPeO4 battery charged from 200W pk panels connected to four Makita DC chargers.
+Due to contstraints imposed by funders and insurance commpanies the design is rather complicated.
+> However it works, is easy and intuitive to use.
 
-A brief description of your project, what it is used for and how does life get
-awesome when someone starts to use it.
+## This repository
+>
+> 
 
-## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get a hello world up &
-running.
-
-```shell
-packagemanager install awesome-project
-awesome-project start
-awesome-project "Do something!"  # prints "Nah."
-```
 
 Here you should say what actually happens when you execute the code above.
 
