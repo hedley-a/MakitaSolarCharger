@@ -7,14 +7,15 @@
 > Epever MPTT 20 Amp charge controller.\
 > Victron Energy 12-24 Volt Orion 20 amp inverter.\
 > Makita DC18SE x 4\ 
-> Arduino custom controller, battery monitor and status display\ 
-
-> Due to external constraints design is more complicated than I would have liked.
+> Arduino custom controller, battery monitor and status display\
+> Due to external constraints design is rather complicated.
 ## Design philosopy 
 
 | Item 		| Reason	|
 | ------------- | ------------- |
 | Fogstar battery | Lithium best value - capacity / service life |
+| JBD bms | Ensure battery is not overcharged or damaged by misuse|
+| Epever Charge controller | RS485 comms for custom monitoring|
 | 12-24 Volt Inverter | Overcome interconnect cable losses due to remote battery requirement |
 | DC Chargers | 'Safety' requirement| 
 | Custom controller | Useful additional info. simple UI|
