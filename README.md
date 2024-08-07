@@ -21,9 +21,8 @@ This repo is really just for my documentation and backup but I suppose someone m
 | Custom controller | Useful information : simple UI|
 
 ## Code
-**Coloumb counting:** Not yet implemented but required for accurate monitoring of the Solar battery/
-
-
+**Coloumb counting:** Required for accurate monitoring of the solar battery. Not yet implemented.\
+**Charge display:** Charge status, charge time, energy consumption.
 
 Here you should say what actually happens when you execute the code above.
 
