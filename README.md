@@ -1,6 +1,6 @@
 # Makita Solar Charger
 <picture>
- <img alt="YOUR-ALT-TEXT" src=https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/solarPanels.jpg>
+ <img src=https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/solarPanels.jpg>
 </picture>
 
 320ah LiPeO<sup>4</sup> Solar storage battery charged from 200W pk panels connected to Makita DC chargers.\
@@ -78,6 +78,8 @@ And again you'd need to tell what the previous code actually does.
 ## Features
 
 ![](https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/controller.png | width = 50)
+
+<img src="https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/controller.jpg" width="50">
 
 What's all the bells and whistles this project can perform?
 
