@@ -76,10 +76,13 @@ packagemanager deploy awesome-project -s server.com -u username -p password
 And again you'd need to tell what the previous code actually does.
 
 ## Features
+<picture>
+
+<img src="https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/chargerPanel.jpg">
 
 <img src="https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/controller.jpg" width="200">
 
-<img src="https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/chargerPanel.jpg" width="250">
+</picture>
 
 What's all the bells and whistles this project can perform?
 
