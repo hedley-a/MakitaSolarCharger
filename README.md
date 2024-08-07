@@ -18,7 +18,7 @@ This repo is really just for my documentation and backup but I suppose someone m
 | Epever Charge controller | RS485 comms for custom monitoring|
 | 12-24 Volt Inverter | Overcome interconnect cable losses due to remote battery requirement |
 | DC Chargers | 'Safety' requirement| 
-| Custom controller | Useful additional info. simple UI|
+| Custom controller | Useful information : simple UI|
 
 ## Code
 **Coloumb counting:** Not yet implemented but required for accurate monitoring of the Solar battery/
