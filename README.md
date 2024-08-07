@@ -4,6 +4,7 @@ This repo is really just for my documentation and backup but I suppose someone m
 ## Hardware
 > Fogstar 320ah LiPeO4 Battery assembled from individual B Grade cells.\
 > JBD 100A BMS with Bluetooth monitoring.\
+> Active battery balancer.\
 > Epever MPTT 20 Amp charge controller.\
 > Victron Energy 12-24 Volt Orion 20 amp inverter.\
 > Makita DC18SE x 4\ 
@@ -25,7 +26,7 @@ This repo is really just for my documentation and backup but I suppose someone m
 **Charge display:** Charge status, charge time, energy consumption, temperature monitor.
 
 Arduino ProMini,485-TTL converter, 20x4 i2C LCD, ACS 712 current sensors ADS1115 ADC.\
-optically isolated remote switching of 12/24 Volt converter and active battery balancer.\
+Optically isolated remote switching of 12/24 Volt converter and active battery balancer.
 
 ### Initial Configuration
 
