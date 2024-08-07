@@ -1,6 +1,6 @@
 # Makita Solar Charger
-> 320ah LiPeO<sup>4</sup> Solar storage battery charged from 200W pk panels connected to Makita DC chargers.\
-> This repo is really just for my documentation and backup but I suppose someone may find it useful.
+320ah LiPeO<sup>4</sup> Solar storage battery charged from 200W pk panels connected to Makita DC chargers.\
+This repo is really just for my documentation and backup but I suppose someone may find it useful.
 ## Hardware
 > Fogstar 320ah LiPeO4 Battery assembled from individual B Grade cells.\
 > JBD 100A BMS with Bluetooth monitoring.\
