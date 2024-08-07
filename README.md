@@ -17,7 +17,7 @@
 | Fogstar battery | Lithium best ££/wh and capacity/life |
 | 12-24 Volt Inverter | Overcome interconnect cable losses due to remote battery requirement |
 | DC Chargers | 'Safety' requirement|
-| Custom controller | Useful additional info. Simple UI|
+| Custom controller | Useful additional info. simple UI|
 ## Code
 > 
 > 
