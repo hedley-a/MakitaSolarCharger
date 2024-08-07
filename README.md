@@ -76,6 +76,9 @@ packagemanager deploy awesome-project -s server.com -u username -p password
 And again you'd need to tell what the previous code actually does.
 
 ## Features
+<picture>
+ <img alt="YOUR-ALT-TEXT" src=https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/controller.jpg>
+</picture>
 
 What's all the bells and whistles this project can perform?
 
