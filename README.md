@@ -79,7 +79,7 @@ And again you'd need to tell what the previous code actually does.
 
 ![](https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/controller.png | width = 50)
 
-<img src="https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/controller.jpg" width="50">
+<img src="https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/controller.jpg" width="150">
 
 What's all the bells and whistles this project can perform?
 
