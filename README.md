@@ -14,9 +14,9 @@
 
 | Item 		| Reason	|
 | ------------- | ------------- |
-| Fogstar battery | Lithium best ££/wh and capacity/life |
+| Fogstar battery | Lithium best value - capacity / service life |
 | 12-24 Volt Inverter | Overcome interconnect cable losses due to remote battery requirement |
-| DC Chargers | 'Safety' requirement|
+| DC Chargers | 'Safety' requirement| 
 | Custom controller | Useful additional info. simple UI|
 ## Code
 > 
