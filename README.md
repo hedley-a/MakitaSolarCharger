@@ -84,7 +84,7 @@ What's all the bells and whistles this project can perform?
 
 * What's the main functionality
 * You can also do another thing
-* If you get really randy, you can even do this
+* If you get really randy, you
 
 ## Configuration
 
