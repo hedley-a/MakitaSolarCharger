@@ -77,9 +77,9 @@ And again you'd need to tell what the previous code actually does.
 
 ## Features
 
-![](https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/controller.png | width = 50)
+<img src="https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/controller.jpg" width="200">
 
-<img src="https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/controller.jpg" width="150">
+<img src="https://github.com/hedley-a/MakitaSolarCharger/blob/main/pictures/chargerPanel.jpg" width="250">
 
 What's all the bells and whistles this project can perform?
 
