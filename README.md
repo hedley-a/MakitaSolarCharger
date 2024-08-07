@@ -12,9 +12,9 @@
 > Due to external constraints design is more complicated than I would have liked.
 ## Design philosopy 
 
-| Item 		| Design reason	|
+| Item 		| Reason	|
 | ------------- | ------------- |
-| Fogstar Battery | Lithium best ££/wh and capacity |
+| Fogstar Battery | Lithium best ££/wh and capacity/life |
 | 12-24 Volt Inverter | Overcome interconnect cable losses  |
 | 12-24 Volt Inverter | Overcome interconnect cable losses due to remote battery requirement |
 | DC Chargers | 'Safety' requirement|
