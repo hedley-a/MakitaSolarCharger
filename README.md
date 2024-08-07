@@ -5,6 +5,7 @@
 ## Hardware
 > Fogstar 320ah LiPeO4 Battery assembled from individual B Grade cells.
 > JBD 100A BMS with Bluetooth monitoring.
+> Epever MPTT 20 Amp charge controller
 > Victron Energy 12-24 Volt Orion 20 amp inverter.
 > Makita DC18SE x 4 
 > Arduino custom controller, battery monitor and status display 
