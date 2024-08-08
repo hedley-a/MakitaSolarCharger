@@ -13,7 +13,7 @@ This repo is really just for my documentation and backup but someone may find it
 > Victron Energy 12-24 Volt Orion 20 amp inverter.\
 > Makita DC18SE x 4\ 
 > Arduino custom controller, battery monitor and status display\
-> Due to external constraints design is rather complicated.
+> Due to external constraints design ended up being rather complicated.
 ## Design philosopy 
 
 | Item 		| Reason	|
