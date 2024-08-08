@@ -58,7 +58,7 @@ Optically isolated remote switching of 12/24 Volt converter and active battery b
 I still have the battery SOC columb counting to implement.\
 Interesting that despite being a magpie coder I could find little on GitHub\
 If you'd like to contribute, please fork the repository and use a feature
-branch. Pull requests are warmly welcome."\
+branch. Pull requests welcome.\
 
 As a self taught coder I am open to style and structure advice.
 
